@@ -4,7 +4,7 @@ setup(
     name="topsis_102203451", 
     version="0.1.0",
     author="Amit Katoch",
-    author_email="ajuneja_be22@thapar.edu",
+    author_email="akatoch_be22@thapar.edu",
     description="Testing Topsis ",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
